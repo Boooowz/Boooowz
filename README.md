@@ -28,8 +28,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🍽 [Cost Manager](https://github.com/Boooowz/cost-manager)
-
+### 🍽 [Cost Manager](https://github.com/Boooowz/Food-cost-calculator-.git)
 **Επαγγελματική κοστολόγηση πιάτων για εστιατόρια**
 
 Πλήρες F&B costing tool με sub-recipes, menu engineering (Stars/Puzzles/Plowhorses/Dogs) και υποστήριξη πολλαπλών εστιατορίων.
