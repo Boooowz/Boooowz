@@ -114,17 +114,6 @@ Multi-tenant booking platform για κουρεία με GDPR compliance, Greek 
 
 ---
 
-## 📈 Στατιστικά
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Boooowz&show_icons=true&theme=dark&hide_border=true&bg_color=0a0e14&title_color=d4a574&icon_color=d4a574)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Boooowz&layout=compact&theme=dark&hide_border=true&bg_color=0a0e14&title_color=d4a574)
-
-</div>
-
----
-
 ## 🎓 Background
 
 - **Λογιστική Πρακτική** — Hospitality & Tourism, μισθοδοσία πολλών εταιρειών
