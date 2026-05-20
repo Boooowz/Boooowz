@@ -2,11 +2,11 @@
 
 # Γεια σου, είμαι ο David 👋
 
-### Λογιστής & Developer · Ξάνθη, Ελλάδα
+### Λογιστής & Developer · Θεσσαλονίκη, Ελλάδα
 
 *Building practical tools that solve real business problems*
 
-[![Location](https://img.shields.io/badge/📍-Ξάνθη%2C%20Ελλάδα-d4a574?style=flat-square)](#)
+[![Location](https://img.shields.io/badge/📍-Θεσσαλονίκη%2C%20Ελλάδα-d4a574?style=flat-square)](#)
 [![Email](https://img.shields.io/badge/Open%20to-Collaboration-3fb950?style=flat-square)](#)
 
 </div>
@@ -15,10 +15,9 @@
 
 ## 🎯 Τι κάνω
 
-Συνδυάζω **λογιστική εξειδίκευση** (μισθοδοσία, F&B) με **software development** για να φτιάχνω εργαλεία που λύνουν πραγματικά προβλήματα — από τη δουλειά μου ως λογιστής, από τα δικά μου εστιατόρια, από τις ανάγκες πελατών.
+Συνδυάζω **λογιστική εξειδίκευση** (μισθοδοσία, F&B) με **software development** για να φτιάχνω εργαλεία που λύνουν πραγματικά προβλήματα — από τη δουλειά μου ως λογιστή.
 
 - 💼 **Λογιστής** με ειδίκευση στη μισθοδοσία
-- 🍽 **Ιδιοκτήτης 2 εστιατορίων** — γνωρίζω τα προβλήματα του F&B από μέσα
 - 💻 **Self-taught developer** — από Excel μέχρι WPF/.NET 8, React, Node.js
 
 ---
