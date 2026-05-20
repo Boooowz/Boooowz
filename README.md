@@ -42,8 +42,7 @@
 </td>
 <td width="50%" valign="top">
 
-### 💰 [Tips Manager](https://github.com/Boooowz/tips-manager)
-
+### 💰 [Tips Manager](https://github.com/Boooowz/Tips_manager.git)
 **Διαμοιρασμός φιλοδωρημάτων με βάρη**
 
 Διαχείριση παρουσιών και δίκαιος διαμοιρασμός tips με σταθμισμένες μονάδες (μάστορας vs βοηθός). Ιστορικό όλων των μηνών.
@@ -53,7 +52,7 @@
 - Ετήσια επισκόπηση
 - CSV/JSON export
 
-🔗 **[Live Demo](https://Boooowz.github.io/tips-manager/)** · [Code](https://github.com/Boooowz/tips-manager)
+🔗 **[Live Demo](https://boooowz.github.io/Tips_manager/)** 
 
 </td>
 </tr>
