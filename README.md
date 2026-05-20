@@ -116,8 +116,8 @@ Multi-tenant booking platform για κουρεία με GDPR compliance, Greek 
 
 ## 🎓 Background
 
-- **Λογιστική Πρακτική** — Hospitality & Tourism, μισθοδοσία πολλών εταιρειών
-- **Επιχειρηματικότητα** — 2 εστιατόρια + SaaS development
+- **Λογιστική** — Hospitality & Tourism, μισθοδοσία πολλών εταιρειών
+
 
 ---
 
