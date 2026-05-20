@@ -130,7 +130,6 @@ Multi-tenant booking platform για κουρεία με GDPR compliance, Greek 
 
 ## 🎓 Background
 
-- **MSc Agricultural Economics** — με έμφαση σε linear programming και optimization
 - **Λογιστική Πρακτική** — Hospitality & Tourism, μισθοδοσία πολλών εταιρειών
 - **Επιχειρηματικότητα** — 2 εστιατόρια + SaaS development
 
