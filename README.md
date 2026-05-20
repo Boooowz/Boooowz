@@ -39,8 +39,7 @@
 - Print-ready recipe cards
 - Boston Matrix classification
 
-🔗 **[Live Demo](https://github.com/Boooowz/Food-cost-calculator-)** · [Code](https://github.com/Boooowz/cost-manager)
-
+🔗[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-d4a574?style=flat-square)](https://boooowz.github.io/Food-cost-calculator-/)
 </td>
 <td width="50%" valign="top">
 
